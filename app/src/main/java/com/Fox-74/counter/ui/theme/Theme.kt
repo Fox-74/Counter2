@@ -35,7 +35,6 @@ fun CounterRememberTheme(
         LightColorPalette
     }
 
-    // Remember a SystemUiController
     val systemUiController = rememberSystemUiController()
 
     SideEffect {

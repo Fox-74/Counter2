@@ -1,4 +1,4 @@
-package com.birhos.counter.counter
+package com.Fox-74.counter.counter
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.*

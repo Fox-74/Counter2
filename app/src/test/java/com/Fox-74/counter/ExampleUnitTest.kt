@@ -1,4 +1,4 @@
-package com.birhos.counter
+package com.Fox-74.counter
 
 import org.junit.Test
 
